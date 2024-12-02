@@ -1,2 +1,2 @@
-# bitcoinpaybit.github.io
+# paybit
 Fork of Bitcoin BTC
